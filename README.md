@@ -7,6 +7,6 @@ Here are the result
 
 | Column 1               | Column 2               |
 |------------------------|------------------------|
-| ![Image 1](image1.jpg) | ![Image 2](image2.jpg) |
-| ![Image 3](image3.jpg) | ![Image 4](image4.jpg) |
-| ![Image 5](image5.jpg) | ![Image 6](image6.jpg) |
+| ![Image 1]([image1.jpg](https://github.com/Avicii786/text-detection-with-opencv-and-easyocr/blob/main/data/test1.png)) | ![Image 2]([image2.jpg](https://github.com/Avicii786/text-detection-with-opencv-and-easyocr/blob/main/data/result1.png)) |
+| ![Image 3]([image3.jpg](https://github.com/Avicii786/text-detection-with-opencv-and-easyocr/blob/main/data/test2.png)) | ![Image 4](https://github.com/Avicii786/text-detection-with-opencv-and-easyocr/blob/main/data/result2.png) |
+| ![Image 5]([image5.jpg](https://github.com/Avicii786/text-detection-with-opencv-and-easyocr/blob/main/data/test3.png)) | ![Image 6](https://github.com/Avicii786/text-detection-with-opencv-and-easyocr/blob/main/data/result3.png) |
